@@ -1,22 +1,37 @@
+# Dream Journal
+
 Sau khi tỉnh dậy, tớ bật đèn lên ngay, và nhặt lấy bút và quyển vở trên bàn để bắt đầu viết. Practice này gọi là Dream Journal - ghi lại giấc mơ ngay sau khi mơ, trước khi chúng tan biến.
 
-Sự kiện xa nhất trong giấc mơ mà tớ có thể nhớ được là khi tớ suy nghĩ về sự xuất hiện của một loài vật đến từ không thời gian khác. Nó màu xanh, nhảy nhót, cao khoảng 20cm - googling từ 'blob monster' sẽ cho cậu thấy hình ảnh của nó. Nhưng cũng có lúc tớ lại thấy nó màu đỏ, cao đến đầu gối, có tứ chi, và chân thì phân chia ra thành 3 khúc như có thể thấy ở con xenomorph trong loạt phim Alien.
+---
 
-Blob: ![alt text](./data/babyblob.png)
+## Intro
 
-Alien leg: ![alt text](./data/alienleg.gif)
+Sự kiện xa nhất trong giấc mơ mà tớ có thể nhớ được là khi tớ suy nghĩ về sự xuất hiện của một loài vật đến từ không thời gian khác. Nó màu xanh, nhảy nhót, cao khoảng 20cm - googling từ 'blob monster' sẽ cho cậu thấy hình ảnh của nó.
 
-Nó đến từ đâu? Camera chạy đằng sau nó, cho thấy nó đang di chuyển giữa các khe đá, hay như bên trong một cái hang nào đó, trên hành tinh - không thời gian của nó. Nó di chuyển bằng cách nhảy lên và rơi xuống, và khi làm vậy, thì có một loạt điện được phóng ra trong không gian, dưới dạng từng mặt sóng một, rất giống con chó Houndeye trong game Half Life. Và một biến cố không lường trước đã xảy ra khi nó nhảy nhót như vậy. Hóa ra là không thời gian của loài vật kia và không thời gian của chúng ta nằm ngay cạnh nhau, các nhau chỉ bởi một lớp phân cách mỏng mà chúng ta chẳng thể nhìn thấy. Lúc con blob nhảy lên, một vài đứa trẻ trong một nhà để xe nhiều tầng cũng đang chạy và cười đùa. Cả hai cùng đồng loại dậm xuống, tạo ra một Cascade Resonance xé rách lớp phân cách giữa hai thế giới. Và thế là, con quái vật kia đã lọt vào thế giới của chúng ta.
+Blob: ![alt text](data/babyblob.png)
 
-Houndeye: ![alt text](./data/houndeye.jpg)
+Nó đến từ đâu? Camera chạy đằng sau nó, cho thấy nó đang di chuyển giữa các khe đá, hay như bên trong một cái hang nào đó, trên hành tinh - không thời gian của nó. Nó di chuyển bằng cách nhảy lên và rơi xuống, và khi làm vậy, thì có một loạt điện được phóng ra trong không gian, dưới dạng từng mặt sóng một, rất giống con chó Houndeye trong game Half Life.
 
+Houndeye: ![alt text](data/houndeye.jpg)
+
+Và một biến cố không lường trước đã xảy ra khi nó nhảy nhót như vậy. Hóa ra là không thời gian của loài vật kia và không thời gian của chúng ta nằm ngay cạnh nhau, các nhau chỉ bởi một lớp phân cách mỏng mà chúng ta chẳng thể nhìn thấy. Lúc con blob nhảy lên, một vài đứa trẻ trong một nhà để xe nhiều tầng cũng đang chạy và cười đùa. Cả hai cùng đồng loại dậm xuống, tạo ra một Cascade Resonance xé rách lớp phân cách giữa hai thế giới. Và thế là, con quái vật kia đã lọt vào thế giới của chúng ta.
+
+Giữa 2 thế giới: ![alt text](data/demogorgon-slime.png)
 Chỉ nhìn nó thôi, thì chắc cũng không phải ai cũng sợ nó (hãy nhìn blob 1 lần nữa). Thậm chí, bọn trẻ con sẽ nói rằng nó đáng yêu. Nhưng chính điều đó khiến nó có thể giết rất nhiều người, vì người ta tự tìm đến với nó. Nó có trí thông minh như của một loài săn mồi vậy. Có lúc nó sẽ lẩn trốn, nhưng thường thường, nó sẽ tìm đến con mồi của nó.
 
 Tớ thấy mình chạy thục mạng trong cái nhà xe đó, để tìm đường thoát thân. Đằng sau, con blob nhảy nhót và phóng điện giết tất cả những người xung quanh nó trong bán kính 3m. Nó có ăn uống gì không thì tớ không biết, tớ chỉ chạy và không nhìn lại.
 
-Một lúc sau tớ thấy mình ở một cái vườn hoa nhỏ trên phố. Phố cũng lạ lắm, nửa Việt nửa Âu, còn cái vườn hoa thì rất giống đoạn ngã tư Quang Trung Tràng Tiền. Tớ đang tìm kiếm con blob đó, và nhìn thấy nó đang trong hình dáng có tứ chi, màu đỏ, nằm bệt trong bụi cỏ. Tớ không dám động vào, vì có thể sự tiếp xúc với da của nó cũng đủ giết chết tớ. Nó mệt và yếu hay sao đó. Hình như nó chạy trốn ai, và cuối cùng đến khu dân cư này. Mọi người đều không biết về sự hiện diện của nó, và nó có thể làm gì. Mọi người sẽ chỉ nghĩ nó là một con chó kì lạ không lông mà thôi, để rồi con chó kỳ lạ đó làm nổ tung não của những người hiếu kì bu vào xem nó.
+---
 
-![alt text](./data/halflife2.jpg)
+## Sự kiện ở vườn hoa
+
+Một lúc sau tớ thấy mình ở một cái vườn hoa nhỏ trên phố. Phố cũng lạ lắm, nửa Việt nửa Âu, còn cái vườn hoa thì rất giống đoạn ngã tư Quang Trung Tràng Tiền. Tớ đang tìm kiếm con blob đó, và nhìn thấy nó đang trong hình dáng có tứ chi, màu đỏ, cao đến đầu gối, và chân thì phân chia ra thành 3 khúc như có thể thấy ở con xenomorph trong loạt phim Alien. Nó nằm bệt trong bụi cỏ. Tớ không dám động vào, vì có thể sự tiếp xúc với da của nó cũng đủ giết chết tớ.
+
+Alien leg: ![alt text](data/alienleg.gif)
+
+Nó mệt và yếu hay sao đó. Hình như nó chạy trốn ai, và cuối cùng đến khu dân cư này. Mọi người đều không biết về sự hiện diện của nó, và nó có thể làm gì. Mọi người sẽ chỉ nghĩ nó là một con chó kì lạ không lông mà thôi, để rồi con chó kỳ lạ đó làm nổ tung não của những người hiếu kì bu vào xem nó.
+
+![alt text](data/halflife2.jpg)
 
 Hình như tớ đã xiên nó bằng cái gì đó. Nhưng nó dai như đỉa, nó thực sự là một con đỉa to lớn. Không giết nó được. Và rồi nó chạy trốn vào một ngõ bên đường, chui vào trong nhà vệ sinh chung của tập thể người ở đó. Tớ đóng của nhà vệ sinh lại, tớ muốn nhốt nó trong khi tìm phương pháp hủy diệt tốt hơn.
 
@@ -24,16 +39,26 @@ Người ta bắt đầu bu lại chỗ cái nhà vệ sinh để ngó nghiêng 
 
 Tớ phải ra ngoài để tìm giải pháp. Và đúng lúc tớ ra thì người ta để lọt nó ra ngoài. Cả hai bên đều bối rối, từng bước tìm hiểu nhau. Vô số dép ném về phía nó, xem nó có phản ứng không. Thế rồi người ta bắt đầu tìm cách giết nó, chắc đã có chuyện gì xảy ra rồi. Người người nghe tin, ùn ùn kéo đến, để rồi biến mất hết trong con ngõ đó. Tớ thì vẫn còn đang tìm vũ khí, tớ cần vũ khí. Thật may mắn rằng ngay cạnh đó, anh hàng xóm nhà tớ đang đẽo cây cho ... 'bữa cơm chiều'? Anh ý địu con anh ấy sau lưng, mặc áo sơ-mi và quần jeans như anh ý vẫn mặc. Tớ không hiểu nổi tại sao một người làm công việc bàn giấy, sáng sủa như anh ý lại đi đốn củi để thổi cơm. Con anh ý đang nghịch cái Iphone X trong khi chúng tớ nói chuyện.
 
-_ Anh có thể giúp em chứ, anh có thể vót cho em một cái xiên dài được không?
+_ Anh có thể giúp em chứ, anh có thể vót cho em một cái xiên dài được không?  
 _ Điều đó thì anh làm được, nhưng anh không đi tiêu diệt cái con động vật kia đâu.
 
 Chưa kịp nhận được vũ khí mới, mọi người trong con ngõ chạy xồ ra, kêu gào và bứt tốc thoát thân. Tớ hoảng hồn, không biết nên làm gì nữa. Rồi tớ bị ngất, bất tỉnh.
 
+---
+
+## Một đống lộn xộn
+
 Khi tớ lờ mờ bò dậy thì thấy mình đã ở nhà rồi. Xung quanh bừa bộn lắm, giấy tờ sách vở ngổn ngang đầy phòng khách. Chắc là mọi người đã mang tớ về nhà.
+
+![alt text](data/enviroment.jpg)
 
 Bước ra ngoài cửa, tớ thấy rất nhiều người, đang gấp rút làm việc gì đó. Họ cứ đi ra đi vào, hối hả, gọi nhau. Chẳng ai nói cho tớ là đã xảy ra chuyện gì. Tớ chỉ có thể đoán, rằng khu dân cư quanh đây đã trở thành trại tị nạn của vô số người sau sự kiện xảy ra trên phố.
 
 Dù sao thì chúng ta cũng có một khoảng thời gian nhỏ nhoi yên bình. Tớ nhớ lúc đó trời sáng lắm, nhưng không có nắng. Đó là một buổi chiều thời điểm tháng 9 này này, lạnh hơn một chút. Mặt trời thì đang ló ra khỏi mây. Và lúc đó, mọi người bắt đầu mang nước tới tưới cho những cây đậu leo với quả to đùng, cùng với nhiều cây trồng khác để lấy lương thực.
+
+---
+
+## Final Chapter
 
 Quả đậu bắt đầu to phình ra, bằng quả quýt, rồi quả tennis. Quả đậu đỗ đó được bọc trong nhiều lớp cánh, như cánh hoa hay vỏ bắp cải vậy. Chúng bắt đầu trở nên xù xì hơn, lông lá, và cựa quậy. Ở khe của những chiếc cánh trên quả đậu, nhớt rỉ ra, ngày một nhiều hơn, và khi chạm mặt đất thì bốc khói như phản ứng ăn mòn của axis. Mọi người kinh ngạc đứng nhìn, chẳng biết làm gì hơn. Ai cũng chung một dự đoán rằng điều gì đang diễn ra, nhưng chẳng ai nói nên lời, và cũng chẳng ai biết làm gì nữa.
 
